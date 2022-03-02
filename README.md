@@ -1,5 +1,5 @@
 # Perfumes
 
-https://debug-arun.github.io/Admin-Task-2/
+https://debug-arun.github.io/Perfumes/
 
 Sample Website for GCET Admin position
